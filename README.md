@@ -1,7 +1,7 @@
 ## Introduction
 Web3.0 website 
 
-Find Website on krauszkrypto.hu
+Find Website on https://www.krauszkrpyto.hu
 
 Connect with Metamask (use rapsten ETH test network)
 
